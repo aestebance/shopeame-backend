@@ -1,16 +1,92 @@
 {
-  "posts":[
+  "products": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "name": "Zapatos Vintagee",
+      "price": 49.99,
+      "description": "Bellos zapatos antiguos para Hipsters.",
+      "stars": 4.5,
+      "image": "https://i.ibb.co/4j85tBM/shoes.jpg"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "name": "Máquina de escribir",
+      "price": 109.99,
+      "description": "Bonita máquina de escribir antigua.",
+      "stars": "4.2",
+      "image": "https://i.ibb.co/84zfbz0/maquina.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lapiceros de colores",
+      "price": 1.99,
+      "description": "Estupendos bolígrafos de colores.",
+      "stars": "5",
+      "image": "https://i.ibb.co/s5m7HKt/lapiceros.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pantalón",
+      "price": 49.99,
+      "description": "Pantalón de moto para evitar heridas.",
+      "stars": 4,
+      "image": "https://i.ibb.co/6nnVkNY/pantalon.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cuaderno de colores",
+      "price": 7.25,
+      "description": "Excelente cuaderno para que apuntes tus clases.",
+      "stars": 3.5,
+      "image": "https://i.ibb.co/Jr3FHVd/cuaderno.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jarabe marca blanca",
+      "price": 12.5,
+      "description": "No cura el COVID, pero está muy rico.",
+      "stars": "2.5",
+      "image": "https://i.ibb.co/mhgHWnf/jarabe.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Maceta de diseño",
+      "price": 9.99,
+      "description": "Maceta de diseño a precio económico.",
+      "stars": 5,
+      "image": "https://i.ibb.co/MZSrV6q/maceta.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gato Persa",
+      "price": 100,
+      "description": "No sé si es legal vender animales online...",
+      "stars": 3,
+      "image": "https://i.ibb.co/1zPPBjx/gato.jpg"
+    },
+    {
+      "id": 9,
+      "price": "1.20",
+      "name": "Monster Energy",
+      "description": "La mejor bebida energética",
+      "stars": "4.9",
+      "image": "https://www.monsterenergy.com/media/uploads_image/2020/05/15/auto/800/055fbb7a3f72f74d5269c6c6264b70b6.png?mod=v1_6d3b3456d758f15ea3a54a8e6dc9e0c6"
+    },
+    {
+      "id": 10,
+      "price": "15.99",
+      "name": "Pack de Monsters",
+      "description": "Un pack de todos los monsters existentes ¡No te lo puedes perder!",
+      "stars": "4.5",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91KRua7vRaL._SL1500_.jpg"
+    },
+    {
+      "id": 11,
+      "price": "105.00",
+      "name": "kit Raspberry Pi 400",
+      "description": "Raspberry todo en uno",
+      "stars": "4.9",
+      "image": "https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_449,q_auto,w_800/c_pad,h_449,w_800/R2048269-01?pgw=1"
     }
   ]
 }
